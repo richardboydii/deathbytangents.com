@@ -3,7 +3,6 @@ jobs:
   build:
     docker:
       - image: circleci/python:3.6.1
-    working_directory: ~/repo
 
     steps:
       - checkout
@@ -24,13 +23,12 @@ jobs:
           command: |
             cd src && rm -rf build
             cd src && mkdir build && hugo -d build
+            name: publish site
+          command: |
+            . venv/bin/activate
+            python publish.py
       - save_cache:
           paths:
             - ./venv
           key: v1-dependencies-{{ checksum "requirements.txt" }}
-        
-      - run:
-          name: publish site
-          command: |
-            . venv/bin/activate
-            python publish.py
+
