@@ -12,6 +12,7 @@ jobs:
             python3 -m venv venv
             . venv/bin/activate
             pip install -r requirements.txt
+      - run:
           name: install hugo
           command: |
             echo Downloading Hugo
@@ -19,14 +20,16 @@ jobs:
             tar xf /tmp/hugo.tar.gz -C /tmp
             mv /tmp/hugo_${HUGO_VERSION}_linux_amd64/hugo_${HUGO_VERSION}_linux_amd64 /usr/bin/hugo
             rm -rf /tmp/hugo*
+      - run:
           name: build site
           command: |
             cd src && rm -rf build
             cd src && mkdir build && hugo -d build
+      - run:
           name: publish site
           command: |
-          . venv/bin/activate
-          python publish.py
+            . venv/bin/activate
+            python publish.py
       - save_cache:
           paths:
             - ./venv
