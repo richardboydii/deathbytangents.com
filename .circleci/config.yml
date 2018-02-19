@@ -18,13 +18,12 @@ jobs:
             echo Downloading Hugo
             curl -Ls https://github.com/gohugoio/hugo/releases/download/v0.36.1/hugo_0.36.1_Linux-ARM64.tar.gz -o /tmp/hugo.tar.gz
             tar xf /tmp/hugo.tar.gz -C /tmp
-            mv /tmp/hugo /usr/bin/hugo
-            rm -rf /tmp/hugo*
+            chmod +x /tmp/hugo
       - run:
           name: build site
           command: |
             cd src && rm -rf build
-            cd src && mkdir build && hugo -d build
+            cd src && mkdir build && /tmp/hugo -d build
       - run:
           name: publish site
           command: |
