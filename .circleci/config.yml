@@ -29,7 +29,7 @@ jobs:
           name: publish site
           command: |
             echo $PWD
-            cd project && . venv/bin/activate
+            . venv/bin/activate
             python publish.py
       - save_cache:
           paths:
