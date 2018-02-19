@@ -16,7 +16,7 @@ jobs:
           name: install hugo
           command: |
             echo Downloading Hugo
-            curl -Ls https://github.com/gohugoio/hugo/releases/download/v0.36.1/hugo_0.36.1_Linux-ARM64.tar.gz -o /tmp/hugo.tar.gz
+            curl -Ls https://github.com/gohugoio/hugo/releases/download/v0.36.1/hugo_0.36.1_Linux-64bit.tar.gz -o /tmp/hugo.tar.gz
             tar xf /tmp/hugo.tar.gz -C /tmp
             chmod +x /tmp/hugo
       - run:
