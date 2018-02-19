@@ -23,10 +23,10 @@ jobs:
           command: |
             cd src && rm -rf build
             cd src && mkdir build && hugo -d build
-            name: publish site
+          name: publish site
           command: |
-            . venv/bin/activate
-            python publish.py
+          . venv/bin/activate
+          python publish.py
       - save_cache:
           paths:
             - ./venv
