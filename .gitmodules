@@ -1,0 +1,6 @@
+[submodule "src/themes/hugo-steam-theme"]
+	path = src/themes/hugo-steam-theme
+	url = https://github.com/digitalcraftsman/hugo-steam-theme
+[submodule "src/themes/hugo-theme-cactus-plus"]
+	path = src/themes/hugo-theme-cactus-plus
+	url = https://github.com/nodejh/hugo-theme-cactus-plus.git

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Death By Tangents</title>
+    <link>https://deathbytangents.com/tags/</link>
+    <description>Recent content in Tags on Death By Tangents</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 18 Feb 2018 10:01:11 -0600</lastBuildDate>
+    
+	<atom:link href="https://deathbytangents.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Aws</title>
+      <link>https://deathbytangents.com/tags/aws/</link>
+      <pubDate>Sun, 18 Feb 2018 10:01:11 -0600</pubDate>
+      
+      <guid>https://deathbytangents.com/tags/aws/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Confession</title>
+      <link>https://deathbytangents.com/tags/confession/</link>
+      <pubDate>Sun, 07 Jan 2018 19:47:33 -0600</pubDate>
+      
+      <guid>https://deathbytangents.com/tags/confession/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Docker</title>
+      <link>https://deathbytangents.com/tags/docker/</link>
+      <pubDate>Sun, 18 Feb 2018 10:01:11 -0600</pubDate>
+      
+      <guid>https://deathbytangents.com/tags/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Doing</title>
+      <link>https://deathbytangents.com/tags/doing/</link>
+      <pubDate>Sun, 07 Jan 2018 19:47:33 -0600</pubDate>
+      
+      <guid>https://deathbytangents.com/tags/doing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lambda</title>
+      <link>https://deathbytangents.com/tags/lambda/</link>
+      <pubDate>Sun, 18 Feb 2018 10:01:11 -0600</pubDate>
+      
+      <guid>https://deathbytangents.com/tags/lambda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://deathbytangents.com/tags/python/</link>
+      <pubDate>Sun, 18 Feb 2018 10:01:11 -0600</pubDate>
+      
+      <guid>https://deathbytangents.com/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rant</title>
+      <link>https://deathbytangents.com/tags/rant/</link>
+      <pubDate>Sun, 07 Jan 2018 19:47:33 -0600</pubDate>
+      
+      <guid>https://deathbytangents.com/tags/rant/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

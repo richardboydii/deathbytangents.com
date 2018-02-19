@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://deathbytangents.com/post/aws-lambda-plus-python-plus-external-libraries-the-easy-way/</loc>
+    <lastmod>2018-02-18T10:01:11-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://deathbytangents.com/about/</loc>
+    <lastmod>2018-01-10T18:54:42-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://deathbytangents.com/post/my-new-new-new-blog/</loc>
+    <lastmod>2018-01-07T19:47:33-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://deathbytangents.com/tags/aws/</loc>
+    <lastmod>2018-02-18T10:01:11-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://deathbytangents.com/categories/blogging/</loc>
+    <lastmod>2018-01-07T19:47:33-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://deathbytangents.com/categories/</loc>
+    <lastmod>2018-01-07T19:47:33-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://deathbytangents.com/tags/confession/</loc>
+    <lastmod>2018-01-07T19:47:33-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://deathbytangents.com/</loc>
+    <lastmod>2018-02-18T10:01:11-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://deathbytangents.com/categories/development/</loc>
+    <lastmod>2018-02-18T10:01:11-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://deathbytangents.com/tags/docker/</loc>
+    <lastmod>2018-02-18T10:01:11-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://deathbytangents.com/tags/doing/</loc>
+    <lastmod>2018-01-07T19:47:33-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://deathbytangents.com/tags/lambda/</loc>
+    <lastmod>2018-02-18T10:01:11-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://deathbytangents.com/post/</loc>
+    <lastmod>2018-02-18T10:01:11-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://deathbytangents.com/tags/python/</loc>
+    <lastmod>2018-02-18T10:01:11-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://deathbytangents.com/tags/rant/</loc>
+    <lastmod>2018-01-07T19:47:33-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://deathbytangents.com/tags/</loc>
+    <lastmod>2018-02-18T10:01:11-06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
