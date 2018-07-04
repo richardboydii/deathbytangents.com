@@ -1,5 +1,6 @@
 +++
 title = "AWS Lambda + Python + External Libraries the Easy Way"
+description = "A quick tutorial on conducting Lambda development locally with external Python packages then deploying them to AWS."
 date = 2018-02-18T10:01:11-06:00
 draft = false
 toc = true
