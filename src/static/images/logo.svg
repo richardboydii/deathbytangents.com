@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="400"
+   height="280"
+   id="svg4139"
+   version="1.0"
+   sodipodi:version="0.32"
+   inkscape:version="0.43"
+   sodipodi:docname="Tangent_to_a_curve.svg"
+   sodipodi:docbase="/home/aoleg">
+  <sodipodi:namedview
+     inkscape:window-height="541"
+     inkscape:window-width="749"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:zoom="0.94449263"
+     inkscape:cx="81.994655"
+     inkscape:cy="167.45217"
+     inkscape:window-x="21"
+     inkscape:window-y="42"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs4141" />
+  <metadata
+     id="metadata4144">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://web.resource.org/cc/PublicDomain" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://web.resource.org/cc/PublicDomain">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:5.38468266;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 5.6454728,254.6926 C 11.641374,177.23525 37.32026,59.761455 102.165,63.300101 C 186.0593,67.878302 236.00289,428.86113 384.16915,74.949457"
+       id="path4151"
+       sodipodi:nodetypes="csc" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:0.9;fill:#aa0000;fill-opacity:1;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path6091"
+       sodipodi:cx="97.12925"
+       sodipodi:cy="86.309265"
+       sodipodi:rx="1.0018867"
+       sodipodi:ry="0.66164207"
+       d="M 98.050436,86.049106 A 1.0018867,0.66164207 0 1 1 97.976282,85.955899"
+       transform="matrix(-6.375207,4.343435,6.771485,8.708809,159.3732,-1102.229)"
+       sodipodi:start="5.8790737"
+       sodipodi:end="12.002958"
+       sodipodi:open="true" />
+    <path
+       style="opacity:0.8;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:3.5897882;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 31.065912,5.9184726 L 111.4367,62.124494 L 112.4976,62.866416 L 392.36055,258.58407"
+       id="path7062"
+       sodipodi:nodetypes="cccc" />
+  </g>
+</svg>
