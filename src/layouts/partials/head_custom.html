@@ -1,0 +1,6 @@
+<!-- Added custom param to config.toml, see file for more info.
+-->
+{{ range .Site.Params.custom_css -}}
+    <link rel="stylesheet" href="{{ . | absURL }}">
+{{- end }}
+<link href="https://fonts.googleapis.com/css?family=Inconsolata|Merriweather&display=swap" rel="stylesheet"> 

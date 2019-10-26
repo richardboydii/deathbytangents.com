@@ -34,3 +34,6 @@ footnotereturnlinkcontents = "↩"
 [params]
     description = "A website built through Hugo and blogdown."
     footer = "&copy; [Richard Boyd II](https://richardboydii.com) 2017 -- 2019 | [Github](https://github.com/richardboydii) | [Twitter](https://twitter.com/richardboydii)"
+    # Adding custom css file and param based on the following:
+    # https://discourse.gohugo.io/t/how-to-override-css-classes-with-hugo/3033/3
+    custom_css = ["css/dbt.css"]
